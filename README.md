@@ -1,0 +1,2 @@
+# GameModes
+Modes: Escape|Diehard
